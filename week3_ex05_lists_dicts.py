@@ -1,4 +1,5 @@
 #Lilitha Simangala Lists and Dictionary Exercise
+
 # Question 1: Creating and Modifying Lists
 
 # Creating a list of fruits
